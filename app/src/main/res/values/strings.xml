@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">geo-loco</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="registration_page_heading">Put Your Details For The Registration On The App</string>
+    <string name="registration_page_text_view_full_name">Full Name</string>
+    <string name="registration_page_edit_text_full_name">ex: Rahul Garg</string>
+    <string name="registration_page_text_view_email">Email</string>
+    <string name="registration_page_edit_view_email">ex: xyz@gmail.com</string>
+    <string name="registration_page_text_view_dob">Date Of Birth</string>
+    <string name="registration_page_edit_view_dob">(DD/MM/YYYY)</string>
+    <string name="registration_page_text_view_gender">Gender</string>
+    <string name="radio_button_female">Female</string>
+    <string name="radio_button_male">Male</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password_hint">confirm your password</string>
+    <string name="text_view_enrollment_number">Enrollment Number</string>
+    <string name="enrollment_number_hint">enter your enrollment number</string>
+    <string name="register">Register</string>
+</resources>
